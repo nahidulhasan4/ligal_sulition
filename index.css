@@ -1,0 +1,16 @@
+.benner{
+    background-image: url("images/banner.png");
+    background-repeat: no-repeat;
+    background-position: block;
+    background-size: cover;
+    border-radius: 15px;
+
+}
+.cards{
+    height: 400px;
+    width: 400px;
+   
+}
+.img{
+    position: center;
+}
